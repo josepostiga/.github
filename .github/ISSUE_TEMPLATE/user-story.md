@@ -1,24 +1,16 @@
 ---
 name: User Story
-about: Enhancements or new module development
+about: New features description
 title: ''
-labels: story
+labels: enhancement
 assignees: ''
-
 ---
 
-**Scenario**
-
-Describe the user scenario (use the [Gherkin](https://cucumber.io/docs/gherkin) syntax)
-
 **Description**
+Describe the new feature succinctly.
 
-Sum the changes involved.
-
-**Database and schema information**
-
-Does this change require any schema changes to the database? If yes, describe it in detail.
+**User Scenarios**
+Describe the user scenarios using the [Gherkin](https://cucumber.io/docs/gherkin) syntax.
 
 **Additional requirements**
-
-Does this change require any special attention or any additional notes for the development of this story?
+Add any additional information or notes for the development of this story.
